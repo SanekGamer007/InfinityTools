@@ -1,2 +1,1 @@
-# testing
-repository
+# InfinityTools launcher source code
