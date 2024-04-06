@@ -25,7 +25,7 @@ Side programmer - [@CaptainAnas](https://github.com/XMine16)
 
 Public - 2.07\
 Early Access - 2.0\
-Dev - [3.0_universal](https://github.com/SanekGamer007/InfinityTools/Releases)
+Dev - [3.0_universal](https://github.com/SanekGamer007/InfinityTools/releases/tag/universal)
 
 ## Notice
 Please note that it is **NOT** possible to use any kind of game launcher (such as Steam), on GFN due to security restrictions.
