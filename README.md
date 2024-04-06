@@ -16,7 +16,10 @@ If you use anything from this project, credit us.
 ## Authors
 
 Main programmer - [@SanekGamer007](https://www.github.com/SanekGamer007)\
-Side programmer - @CaptainAnas
+
+Side programmer - @CaptainAnas\
+
+0.5 (or Prototype versions) - @akz4d1newacc
 
 ## Latest versions
 
