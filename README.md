@@ -7,8 +7,6 @@
 
 Infinity Launcher (formerly Infinity Tools) was a user-friendly way to run jailbreaks on GFN (GeForce Now).
 
-The launcher would download all the necessary programs so you could start gaming in no time!
-
 ## License
 
 If you use anything from this project, credit us.
